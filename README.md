@@ -7,3 +7,4 @@
 
 <b><p>
 Todolist: The to do list to organize work & life</p></b>
+<img src="screenpic.PNG" alt="Screenshot">
